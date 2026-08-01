@@ -9,7 +9,7 @@ This repository constitutes a rigorous research documentation of my learning jou
 - The implementation of PINNs.
 - Exploration of Loss Landscapes and Optimizer Dynamics.
 - Study of the Hessian and Fisher Information Matrices.
-- Construction of a reproducible, research-grade open-source repository.
+  
 
 ## Repository Structure
 - `src/`: Reusable classes and functions with PEP8 docstrings and typing.
