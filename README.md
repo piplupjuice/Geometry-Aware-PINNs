@@ -6,7 +6,6 @@
 This repository constitutes a rigorous research documentation of my learning journey exploring Physics-Informed Neural Networks (PINNs) through the lens of Riemannian Geometry, Kronecker-Factored Approximate Curvature (K-FAC), and Spectral Bias. The culmination of this study is the **Geometry Scorecard**, a set of diagnostic metrics designed to quantify optimization pathologies in PINNs.
 
 ## Motivation & Learning Objectives
-The primary purpose of this repository is to build strong mathematical foundations in Scientific Machine Learning and document my progress towards future research endeavors suitable for top-tier Ph.D. programs. It demonstrates:
 - The implementation of PINNs.
 - Exploration of Loss Landscapes and Optimizer Dynamics.
 - Study of the Hessian and Fisher Information Matrices.
